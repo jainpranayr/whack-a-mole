@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  background: #2ce138;
+  background: #ffc600;
 }
 
 *, *:before, *:after {
@@ -12,6 +12,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Amatic SC', cursive;
+  color:#754c00;
 }
 
 h1 {
@@ -30,7 +31,7 @@ h1 {
 
 .game {
   width: 600px;
-  height: 400px;
+  height: 600px;
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
